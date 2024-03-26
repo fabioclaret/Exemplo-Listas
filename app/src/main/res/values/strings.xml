@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exemplo Listas</string>
+    <string-array name = "lista_estados">
+    <item >AC</item>
+    <item >AL</item>
+    <item >AP</item>
+    <item >AM</item>
+    <item >BA</item>
+    <item >DE</item>
+    <item >DF</item>
+    <item >ES</item>
+    <item >GO</item>
+    <item >MA</item>
+    <item >MT</item>
+    <item >MS</item>
+    <item >MG</item>
+    <item >PA</item>
+    <item >PB</item>
+    <item >PI</item>
+    <item >SE</item>
+    </string-array>
+</resources>
